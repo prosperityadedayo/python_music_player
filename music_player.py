@@ -24,7 +24,7 @@ class MusicPlayer(QMainWindow):
         self.play_button = QPushButton("▶ Play")
         self.pause_button = QPushButton("⏸ Pause")
         self.stop_button = QPushButton("⏹ Stop")
-        self.open_button = QPushButton("📂 Open Files")
+        self.open_button = QPushButton("📂 Open Music")
         self.next_button = QPushButton("⏭ Next")
         self.prev_button = QPushButton("⏮ Previous")
         self.backward_button = QPushButton("⏪ -10s")
